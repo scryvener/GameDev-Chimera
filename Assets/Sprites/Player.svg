@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Player.svg"
+   inkscape:export-filename="E:\GameDev\Project_1\Assets\Sprites\Player.png"
+   inkscape:export-xdpi="106.89239"
+   inkscape:export-ydpi="106.89239">
+  <defs
+     id="defs2">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient816"
+       gradientUnits="userSpaceOnUse"
+       x="12.827287"
+       y="242.09392"
+       gradientTransform="matrix(1.9999958,0,0,1.9999959,-3.4510169,-293.54773)">
+      <meshrow
+         id="meshrow818">
+        <meshpatch
+           id="meshpatch820">
+          <stop
+             path="c 11.6197,-11.6197  30.459,-11.6197  42.0788,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop822" />
+          <stop
+             path="c 11.6197,11.6197  11.6197,30.459  0,42.0788"
+             style="stop-color:#e1e1e1;stop-opacity:1"
+             id="stop824" />
+          <stop
+             path="c -11.6197,11.6197  -30.459,11.6197  -42.0788,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop826" />
+          <stop
+             path="c -11.6197,-11.6197  -11.6197,-30.459  -3.55271e-15,-42.0788"
+             style="stop-color:#e1e1e1;stop-opacity:1"
+             id="stop828" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="130.12139"
+     inkscape:cy="227.50545"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <ellipse
+       style="opacity:1;fill:url(#meshgradient816);fill-opacity:1;stroke:#000000;stroke-width:2.64582777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49411765"
+       id="path844"
+       cx="64.282181"
+       cy="232.71779"
+       rx="59.508232"
+       ry="59.508236" />
+    <path
+       style="fill:#870000;fill-opacity:1;stroke:#0000c7;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.243649,173.72563 0.100202,14.55193"
+       id="path867"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000c7;stroke-width:0.82091302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 64.354458,188.26714 76.619956,175.78811"
+       id="path884"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000c7;stroke-width:0.82694793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.975549,175.6596 12.355399,12.60531"
+       id="path884-0"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="path901"
+       style="fill:#ff00c7;fill-opacity:1;stroke:none"
+       cx="64.344772"
+       cy="188.27666"
+       r="1.5" />
+  </g>
+</svg>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg7685"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Missile_Basic.svg"
+   inkscape:export-filename="E:\GameDev\Project_1\Assets\Sprites\Missile_Basic.png"
+   inkscape:export-xdpi="112.364"
+   inkscape:export-ydpi="112.364">
+  <defs
+     id="defs7679">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient990">
+      <stop
+         style="stop-color:#acffce;stop-opacity:1;"
+         offset="0"
+         id="stop986" />
+      <stop
+         style="stop-color:#0000b1;stop-opacity:0"
+         offset="1"
+         id="stop988" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient990"
+       id="radialGradient992"
+       cx="-180.47362"
+       cy="199.88042"
+       fx="-180.47362"
+       fy="199.88042"
+       r="2.7715618"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.2051926,-0.86472575,-1.0233835,4.0541799,602.5334,-766.53094)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="35.561022"
+     inkscape:cy="67.454229"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata7682">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <rect
+       style="opacity:1;fill:url(#radialGradient992);fill-opacity:1;stroke:#dc7248;stroke-width:0.73642284;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect822"
+       width="4.8067007"
+       height="4.8067007"
+       x="-182.87697"
+       y="197.47707"
+       transform="matrix(0.68879825,-0.72495308,0.68879825,0.72495308,0,0)" />
+    <path
+       style="opacity:1;fill:#1a0091;fill-opacity:1;stroke:none;stroke-width:1.10391212;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 8.4046442,291.89733 4.9662698,-5.22694 4.96627,5.22694"
+       id="rect822-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="opacity:1;fill:#dc7248;fill-opacity:1;stroke:#dcd048;stroke-width:0.09498542;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect8230"
+       width="7.3484159"
+       height="14.813445"
+       x="9.6967001"
+       y="5.1373892"
+       ry="0" />
+  </g>
+</svg>

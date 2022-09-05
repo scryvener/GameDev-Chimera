@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg6815"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Enemy_Armed.svg"
+   inkscape:export-filename="E:\GameDev\Project_1\Assets\Sprites\Enemy_Speedy.png"
+   inkscape:export-xdpi="102.25042"
+   inkscape:export-ydpi="102.25042">
+  <defs
+     id="defs6809">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7490">
+      <stop
+         style="stop-color:#d1dcf2;stop-opacity:1;"
+         offset="0"
+         id="stop7486" />
+      <stop
+         style="stop-color:#d1dcf2;stop-opacity:0;"
+         offset="1"
+         id="stop7488" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7468">
+      <stop
+         style="stop-color:#ddfc90;stop-opacity:1"
+         offset="0"
+         id="stop7464" />
+      <stop
+         style="stop-color:#ddfc90;stop-opacity:0;"
+         offset="1"
+         id="stop7466" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7468"
+       id="radialGradient7472"
+       cx="45.477978"
+       cy="265.14645"
+       fx="45.477978"
+       fy="265.14645"
+       r="65.111545"
+       gradientTransform="matrix(1,0,0,0.97667612,0,5.371868)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7490"
+       id="radialGradient7492"
+       cx="82.600998"
+       cy="202.21603"
+       fx="82.600998"
+       fy="202.21603"
+       r="65.111545"
+       gradientTransform="matrix(2.0428599,0.0979527,-0.06463777,1.3480581,-57.65481,-78.34397)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="227.08729"
+     inkscape:cy="313.18403"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6812">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient7472);fill-opacity:1;stroke:#191919;stroke-width:1.98300779;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path7360"
+       cx="67.400597"
+       cy="230.31622"
+       rx="64.120041"
+       ry="62.601387" />
+    <ellipse
+       ry="62.601387"
+       rx="64.120041"
+       cy="230.31622"
+       cx="67.400597"
+       id="ellipse7474"
+       style="opacity:1;fill:url(#radialGradient7492);fill-opacity:1;stroke:#191919;stroke-width:1.98300779;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.68778372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.501216,166.61969 c 0.423156,126.47439 0.423156,126.47439 0.423156,126.47439"
+       id="path7496"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

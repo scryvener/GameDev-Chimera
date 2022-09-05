@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg6815"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Enemy_Speedy.svg"
+   inkscape:export-filename="E:\GameDev\Project_1\Assets\Sprites\Enemy_Chunky.png"
+   inkscape:export-xdpi="102.25042"
+   inkscape:export-ydpi="102.25042">
+  <defs
+     id="defs6809">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7400">
+      <stop
+         style="stop-color:#4850f0;stop-opacity:1;"
+         offset="0"
+         id="stop7396" />
+      <stop
+         style="stop-color:#4850f0;stop-opacity:0;"
+         offset="1"
+         id="stop7398" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7400"
+       id="radialGradient7402"
+       cx="67.400597"
+       cy="230.31622"
+       fx="67.400597"
+       fy="230.31622"
+       r="65.111545"
+       gradientTransform="matrix(2.5267303,5.8094701e-8,-5.1685742e-8,2.2479835,-102.90252,-287.43085)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="226.90239"
+     inkscape:cy="370.50603"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6812">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient7402);fill-opacity:1;stroke:#191919;stroke-width:1.98300779;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path7360"
+       cx="67.400597"
+       cy="230.31622"
+       rx="64.120041"
+       ry="62.601387" />
+  </g>
+</svg>
